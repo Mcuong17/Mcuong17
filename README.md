@@ -66,17 +66,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100080675648160" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-m%E1%BA%A1nh-405584226/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="https://www.instagram.com/d.cuong_17/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:manhcuong7381@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
   </a>
 </div>
 
