@@ -53,14 +53,6 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
-
-&nbsp;
-<br>
-### 📌 Featured Projects <br>
-- [💬 Fancy Chat UI](https://github.com/yourusername/chat-app) – A real-time chat interface built with React and Firebase <br>
-- [🎨 Portfolio Website](https://github.com/yourusername/portfolio) – My personal portfolio made with React and styled-components
-
-
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
